@@ -16,6 +16,7 @@ A curated list of fantastic resources in the React ecosystem.
 ## UI Libraries
 
 - [shadcn](https://ui.shadcn.com/) – Open-source, beautifully designed React components built on Radix UI and Tailwind CSS. Highly customizable, intended as a foundation for your own design system.
+- [DaisyUI](https://daisyui.com/) – A plugin for Tailwind CSS that adds a set of pre-designed components, making it easy to build beautiful UIs.
 - [Magic UI](https://magicui.design/): 150+ free and open-source animated components and effects for React, TypeScript, Tailwind CSS, and Motion. Includes landing page templates, advanced UI effects, and seamless integration with shadcn/ui. Designed for design engineers to build beautiful, interactive sites quickly.
 - [HyperUI](https://www.hyperui.dev/) – Free, open-source Tailwind CSS v4 component library. Includes a wide range of application and marketing components for dashboards, eCommerce, and more. No install or setup required.
 - [Material Tailwind](https://www.material-tailwind.com/) – Open-source library of React components inspired by Material Design, built with Tailwind CSS. Includes 460+ components, color palettes, and Figma design files.
@@ -36,6 +37,8 @@ A curated list of fantastic resources in the React ecosystem.
 - [React Magic Motion](https://www.react-magic-motion.com/) – A library for creating stunning animations in React applications.
 - [Motion](https://motion.dev/) – A library for creating animations in React applications.
 - [Anime.js](https://animejs.com/) – Fast, versatile, all-in-one animation engine for the web. Features an intuitive API, advanced transforms, SVG morphing, scroll-based animations, staggering, springs, draggable elements, timelines, and responsive animations.
+- [Framer Motion](https://www.framer.com/motion/) – A popular library for creating animations and gestures in React applications, built on the Framer design tool.
+- [Aceternity](https://ui.aceternity.com/) - A library for creating beautiful animations and transitions in React applications, with a focus on performance and ease of use.
 
 ## Charts & Diagrams
 
