@@ -15,9 +15,8 @@ A curated list of fantastic resources in the React ecosystem.
 
 ## UI Libraries
 
-- [Aceternity UI](https://ui.aceternity.com/) – Free collection of modern, animated React components and micro-interactions. Copy-paste ready, focused on trending effects and Framer Motion, designed for Next.js, React, and Tailwind CSS.
-- [shadcn/ui](https://ui.shadcn.com/) – Open-source, beautifully designed React components built on Radix UI and Tailwind CSS. Highly customizable, intended as a foundation for your own design system.
-- [daisyUI](https://daisyui.com/) – The most popular Tailwind CSS plugin, providing semantic class names for UI components. Reduces the need for utility classes, works with all JS frameworks, and is highly customizable.
+- [shadcn](https://ui.shadcn.com/) – Open-source, beautifully designed React components built on Radix UI and Tailwind CSS. Highly customizable, intended as a foundation for your own design system.
+- [Magic UI](https://magicui.design/): 150+ free and open-source animated components and effects for React, TypeScript, Tailwind CSS, and Motion. Includes landing page templates, advanced UI effects, and seamless integration with shadcn/ui. Designed for design engineers to build beautiful, interactive sites quickly.
 - [HyperUI](https://www.hyperui.dev/) – Free, open-source Tailwind CSS v4 component library. Includes a wide range of application and marketing components for dashboards, eCommerce, and more. No install or setup required.
 - [Material Tailwind](https://www.material-tailwind.com/) – Open-source library of React components inspired by Material Design, built with Tailwind CSS. Includes 460+ components, color palettes, and Figma design files.
 - [Inspira UI](https://inspira-ui.com/) – Modern UI components for React and Tailwind CSS. (No official description found.)
@@ -25,6 +24,7 @@ A curated list of fantastic resources in the React ecosystem.
 - [Radix UI](https://www.radix-ui.com/) – Unstyled, accessible components for building high-quality design systems and web applications.
 - [Skiper UI](https://skiper-ui.com/) – A collection of pre-built components and templates for building modern web applications with React and Tailwind CSS.
 - [React Bits](https://www.reactbits.dev/) – A collection of useful React components and patterns with many animation components.
+- [Ant Design](https://ant.design/) - A design system with a set of high-quality React components out of the box.
 
 ## Animation & Motion
 
@@ -35,6 +35,7 @@ A curated list of fantastic resources in the React ecosystem.
 - [Auto Animate](https://auto-animate.formkit.com/) – A library for creating smooth animations between state changes in your React components.
 - [React Magic Motion](https://www.react-magic-motion.com/) – A library for creating stunning animations in React applications.
 - [Motion](https://motion.dev/) – A library for creating animations in React applications.
+- [Anime.js](https://animejs.com/) – Fast, versatile, all-in-one animation engine for the web. Features an intuitive API, advanced transforms, SVG morphing, scroll-based animations, staggering, springs, draggable elements, timelines, and responsive animations.
 
 ## Charts & Diagrams
 
