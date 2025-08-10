@@ -42,6 +42,7 @@ A curated list of fantastic resources in the React ecosystem.
 - [Nivo](https://nivo.rocks/) – Rich set of dataviz components for React, built on top of D3. Includes charts like line, bar, pie, radar, and more.
 - [Recharts](https://recharts.org/) – A composable charting library built on React components, providing a set of easy-to-use chart types.
 - [ECharts](https://echarts.apache.org/en/index.html) – A powerful, interactive charting and visualization library for browser environments.
+- [AG-Charts](https://ag-grid.com/charts/) - A high-performance charting library for React, providing a wide range of chart types and extensive customization options.
 
 ## 3D Visualization
 
